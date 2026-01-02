@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "pepesan": "^3.4.11",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.3",
+    "sqlite3": "^5.1.7"
+  }
+}

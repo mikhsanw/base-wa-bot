@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f2a1443e-bfe4-4422-87aa-f7856ed98f58",
+    "key": [
+      "halo"
+    ],
+    "title": "Halo",
+    "response": "Halo, selamat datang di Layanan Kampus Polbeng",
+    "parentId": null,
+    "type": "response"
+  },
+  {
+    "id": "7ebeff1e-c47f-40b2-bf2a-db68a7e9e5bc",
+    "key": [
+      "info"
+    ],
+    "title": "Info Kampus",
+    "response": "info kampus tes",
+    "parentId": null,
+    "type": "folder"
+  },
+  {
+    "id": "aaf3d03a-aa7b-47d2-92c3-07548cf133f6",
+    "key": [
+      "1"
+    ],
+    "title": "Info Kampus",
+    "response": "welkom akademik",
+    "parentId": "7ebeff1e-c47f-40b2-bf2a-db68a7e9e5bc",
+    "type": "response"
+  },
+  {
+    "id": "8ac6c65d-f21f-483d-b413-3c868bbee2df",
+    "key": [
+      "prodi"
+    ],
+    "title": "Info prodi",
+    "response": "prodi",
+    "parentId": null,
+    "type": "response"
+  },
+  {
+    "id": "02a2509d-dead-4463-ae5f-31898c793df6",
+    "key": [
+      "1.1"
+    ],
+    "title": "1.1",
+    "response": "1.1 tes",
+    "parentId": "7ebeff1e-c47f-40b2-bf2a-db68a7e9e5bc",
+    "type": "folder"
+  },
+  {
+    "id": "2bdbb7cc-4115-4bb4-a845-cb3dc5c1034b",
+    "key": [
+      "1.1.1"
+    ],
+    "title": "1.1.1",
+    "response": "1.1.1 tes",
+    "parentId": "02a2509d-dead-4463-ae5f-31898c793df6",
+    "type": "response"
+  }
+]
